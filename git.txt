@@ -1,1 +1,1 @@
-这是一个新的git库，名字叫做Exercise.
+这是一个新的git库，做Exercise.
